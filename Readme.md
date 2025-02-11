@@ -2,10 +2,10 @@
 
 ![https://fs25.rotjong.xyz/githubpage/1080p_FS25_FrechDachs4x_WillAutoDrive_Map.png](https://fs25.rotjong.xyz/githubpage/1080p_FS25_FrechDachs4x_WillAutoDrive_Map.png)
 
-My mate Will spent a lot of time on this and after an update and a crash he found that everything was gone. Unknowing how to fix it he started a new map.
-Upon hearing about this I gave it a go, found it, fixed it to work with the update, and he's too salty still to use it. Stubborn bastard.
-But after all the work he put into it I didn't want to see it go to waste.
-So, with his permission, I'm sharing his work with hope somebody finds it usefull. 
+My mate Will spent a lot of time on this and after an update and a crash he found that everything was gone. Unknowing how to fix it he started a new map.   
+Upon hearing about this I gave it a go, found it, fixed it to work with the update, and he's too salty still to use it. Stubborn bastard.   
+But after all the work he put into it I didn't want to see it go to waste.   
+So, with his permission, I'm sharing his work with hope somebody finds it usefull.   
 
 ---
 ### This is made with FS25 1.5.0.1 and AutoDrive 3.0.0.4. It should work with future update but it will probably not get updated.   
